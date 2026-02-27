@@ -1,4 +1,0 @@
-########################################
-{'dataset': 'citeseer_lcc', 'gpu_id': 0, 'seed': 123, 'learning_rate_train': 0.001, 'learning_rate_adv': 0.0005, 'num_hidden': 128, 'num_proj_hidden': 128, 'num_edge_hidden': 128, 'activation': 'prelu', 'base_model': 'GCNConv', 'num_layers': 2, 'tau': 0.9, 'num_epochs': 150, 'wd_train': 1e-05, 'wd_adv': 1e-05, 'reg_lambda': 0.9, 'adv_lambda': 1.0}
-epoch: 151
-micro_f1: 75.71±0.88, macro_f1: 64.46±0.95, acc: 75.71±0.88
