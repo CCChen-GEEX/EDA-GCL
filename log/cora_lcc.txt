@@ -1,0 +1,4 @@
+########################################
+{'dataset': 'cora_lcc', 'gpu_id': 0, 'seed': 123, 'learning_rate_train': 0.001, 'learning_rate_adv': 0.0005, 'num_hidden': 1024, 'num_proj_hidden': 1024, 'num_edge_hidden': 64, 'activation': 'prelu', 'base_model': 'GCNConv', 'num_layers': 2, 'tau': 0.4, 'num_epochs': 200, 'wd_train': 1e-05, 'wd_adv': 1e-05, 'reg_lambda': 0.5, 'adv_lambda': 1.0}
+epoch: 201
+micro_f1: 85.63±0.70, macro_f1: 84.61±0.92, acc: 85.63±0.70
