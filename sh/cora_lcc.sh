@@ -1,0 +1,15 @@
+python train_homo.py \
+    --dataset cora_lcc \
+    --seed 123 \
+    --learning_rate_train 0.001 \
+    --learning_rate_adv 0.0005 \
+    --num_hidden 1024 \
+    --num_proj_hidden 1024 \
+    --num_edge_hidden 64 \
+    --activation prelu \
+    --base_model GCNConv \
+    --num_layers 2 \
+    --tau 0.4 \
+    --num_epochs 200 \
+    --reg_lambda 0.5 \
+    --gpu_id 0
