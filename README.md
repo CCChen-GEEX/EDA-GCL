@@ -23,3 +23,9 @@ sh script/search_hyper.sh
 ```
 
 ## Requirements
+- torch 2.0.0+cu118
+- torch-geometric 2.6.1
+- PyYAML 6.0.2
+- numpy 1.26.4
+- scikit-learn 1.6.1
+- deeprobust 0.2.11
