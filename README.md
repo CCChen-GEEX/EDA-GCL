@@ -29,3 +29,8 @@ sh script/search_hyper.sh
 - numpy 1.26.4
 - scikit-learn 1.6.1
 - deeprobust 0.2.11
+
+Install all dependencies using
+```
+pip install -r requirements.txt
+```
