@@ -9,7 +9,11 @@
 
 ## Usage
 
-Train and evaluate the model by executing
+Train and evaluate the model for heterophilous graphs by executing
 ```
-sh sh/cora_lcc.sh
+sh script/train_hete.sh
+```
+Train and evaluate the model for homophilous graphs by executing
+```
+sh script/train_homo.sh
 ```
