@@ -49,3 +49,8 @@ Please cite our paper if you use the code:
   year={2026}
 }
 ```
+## 🗨️ Contacts
+
+For more details about our article, feel free to reach out to us. We are here to provide support and answer any questions you may have. 
+
+- **Email**: Send us your inquiries at [c2chen@tongji.edu.cn].
