@@ -17,7 +17,7 @@ Train and evaluate the model for homophilous graphs by executing
 ```
 sh script/train_homo.sh
 ```
-Performance may vary with different `torch-geometric` version. Also provide the script `search_hyper.sh` for searching new hyperparameter combinations.
+Performance results are subject to variation based on the specific `torch-geometric` version utilized. Additionally, we supply `search_hyper.sh` to enable efficient exploration of new hyperparameter configurations.
 ```
 sh script/search_hyper.sh
 ```
