@@ -34,3 +34,18 @@ Install all dependencies using
 ```
 pip install -r requirements.txt
 ```
+## Citation
+
+Please cite our paper if you use the code:
+
+```
+@inproceedings{chen2026edge,
+  title={Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against Neighborhood Inconsistency},
+  author={Chen, Chunchun and Wei, Xing and Yang, Jiayi and Wang, Chenrun and Fu, Yiwei and Zhang, Yuxing and Sun, Xin and Fan, Rui and Ye, Wei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={24},
+  pages={20005--20013},
+  year={2026}
+}
+```
