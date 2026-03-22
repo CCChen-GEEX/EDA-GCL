@@ -5,7 +5,7 @@
 
 ## 🚀 About
 
-**EDA-GCL** is an edge self-adversarial augmentation framework for graph contrastive learning that enhances robustness against neighborhood inconsistency by maximizing bidirectional edge feature discrepancies. The framework employs an alternating min-max optimization paradigm with linear computational complexity, demonstrating superior effectiveness on both homophilic and heterophilic graphs under various noise scenarios.
+**EDA-GCL** is an edge self-adversarial augmentation framework for graph contrastive learning that enhances robustness against neighborhood inconsistency by maximizing bidirectional edge feature discrepancies.
 
 ## Usage
 
